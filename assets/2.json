@@ -1,0 +1,19 @@
+{
+  "name": "Piccolo",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "93kR4bPopdRWdZs1oixszUUWueAtMYaBofGP8MCKqu18",
+        "share": 100
+      }
+    ]
+  }
+}
